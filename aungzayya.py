@@ -1,4 +1,11 @@
-
+"""
+Student Name: Aung Zay Ya
+Student ID:13543466
+Date: 7/12/2018
+This is the program that help people to learn the song by providing the song adding feature
+and the mark as complete features.
+Github:https://github.com/EdyZ01/A1_Aung_Zay_Ya
+"""
 from operator import itemgetter  #importing the itemgetter function from the operator
 
 MENU = "Menu :\n L - List Songs \n A - Add a new song \n C - Complete a song \n Q - Quit" #constants used in the program
